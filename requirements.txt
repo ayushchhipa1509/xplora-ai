@@ -1,5 +1,4 @@
 # Xplora AI — Streamlit Cloud Dependencies
-python-dotenv==1.0.0
 langgraph==0.0.20
 langchain==0.1.0
 langchain-core>=1.2.1
